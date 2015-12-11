@@ -42,7 +42,7 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ==============================================================================================================
 
-# Day 2: I Was Told There Would Be No Math ---
+# Day 2: I Was Told There Would Be No Math 
 
 The elves are running low on wrapping paper, and so they need to submit an order for more. They have a list of the dimensions (length l, width w, and height h) of each present, and only want to order exactly as much as they need.
 
@@ -75,7 +75,7 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ================================================================================================================
 
---- Day 3: Perfectly Spherical Houses in a Vacuum ---
+# Day 3: Perfectly Spherical Houses in a Vacuum ---
 
 Santa is delivering presents to an infinite two-dimensional grid of houses.
 
@@ -110,7 +110,7 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ===========================================================================================================
 
---- Day 4: The Ideal Stocking Stuffer ---
+# Day 4: The Ideal Stocking Stuffer ---
 
 Santa needs help mining some AdventCoins (very similar to bitcoins) to use as gifts for all the economically forward-thinking little girls and boys.
 
@@ -136,7 +136,7 @@ Your puzzle input was iwrupvqb.
 
 ====================================================================================================================
 
---- Day 5: Doesn't He Have Intern-Elves For This? ---
+# Day 5: Doesn't He Have Intern-Elves For This? ---
 
 Santa needs help figuring out which strings in his text file are naughty or nice.
 
@@ -182,7 +182,7 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ====================================================================================================================
 
---- Day 6: Probably a Fire Hazard ---
+# Day 6: Probably a Fire Hazard ---
 
 Because your neighbors keep defeating you in the holiday house decorating contest year after year, you've decided to deploy one million lights in a 1000x1000 grid.
 
