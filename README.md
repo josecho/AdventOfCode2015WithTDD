@@ -1,6 +1,6 @@
 # AdventOfCode2015WithTDD
 
---- Day 1: Not Quite Lisp ---
+# Day 1: Not Quite Lisp 
 
 Santa was hoping for a white Christmas, but his weather machine's "snow" function is powered by stars, and he's fresh out! To save Christmas, he needs you to collect fifty stars by December 25th.
 
@@ -42,7 +42,7 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ==============================================================================================================
 
---- Day 2: I Was Told There Would Be No Math ---
+# Day 2: I Was Told There Would Be No Math ---
 
 The elves are running low on wrapping paper, and so they need to submit an order for more. They have a list of the dimensions (length l, width w, and height h) of each present, and only want to order exactly as much as they need.
 
